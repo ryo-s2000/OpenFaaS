@@ -1,3 +1,11 @@
+## Edge コンピューティング
+https://www.sbbit.jp/article/cont1/35542
+
+https://medium.com/@hokamoto/chick-fil-a%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%A8%E3%83%83%E3%82%B8%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0-3c28ca97b151
+
+手元の環境で計算してからクラウドと通信しましょうねってやつ。
+集権から分散の流れはクラウドにも当てはまるのか？
+
 ## OpenFaaS - Serverless Functions Made Simple
 
 [![Go Report Card](https://goreportcard.com/badge/github.com/openfaas/faas)](https://goreportcard.com/report/github.com/openfaas/faas) [![Build
